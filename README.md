@@ -1,4 +1,4 @@
-# wp-espectacular
+# wp-wow
 
 Una **skill para agentes de IA** (Claude Code, Cursor, etc.) que enseña a montar un
 **WordPress headless** con un front **espectacular** en Astro — uno que no huele ni a
@@ -18,20 +18,20 @@ ejecute ni un plugin de WordPress: es conocimiento empaquetado que viaja con tu 
 ### Claude Code (u otros agentes con soporte de skills)
 
 ```bash
-npx skills add HombreFeliz/wp-espectacular
+npx skills add HombreFeliz/wp-wow
 ```
 
 Tu Claude Code detecta la skill automáticamente. Invócala por su nombre:
 
 ```
-/wp-espectacular
+/wp-wow
 ```
 
 ¿Prefieres hacerlo a mano? Clona el repo y copia la carpeta:
 
 ```bash
-git clone https://github.com/HombreFeliz/wp-espectacular
-cp -r wp-espectacular/.claude/skills/wp-espectacular .claude/skills/
+git clone https://github.com/HombreFeliz/wp-wow
+cp -r wp-wow/.claude/skills/wp-wow .claude/skills/
 ```
 
 ### Cualquier otro agente (Cursor, Windsurf, ChatGPT…)
@@ -45,7 +45,7 @@ Una vez instalada, arranca con este prompt:
 
 ```text
 Monta un WordPress headless con un front Astro premium siguiendo la
-skill wp-espectacular. Empieza por levantar el CMS en local y verificar
+skill wp-wow. Empieza por levantar el CMS en local y verificar
 que /wp-json responde, y ve explicándome cada paso.
 ```
 

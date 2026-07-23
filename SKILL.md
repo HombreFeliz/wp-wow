@@ -1,5 +1,5 @@
 ---
-name: wp-espectacular
+name: wp-wow
 description: Monta un WordPress headless (CMS) con un front espectacular en Astro que no parece WordPress. Úsala cuando alguien quiera convertir un WordPress en headless, servir su contenido por REST/GraphQL a un front moderno, construir una landing premium sobre WordPress, o desacoplar el back del front. Cubre el setup local con Local by Flywheel, la capa puente (mu-plugin + REST), el front Astro, las fuentes auto-alojadas y el deploy.
 ---
 
